@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<itop_design xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.2">
+  <module_designs>
+    <module_design id="itop-portal" xsi:type="portal">
+      <properties>
+        <themes>
+          <theme id="bootstrap" _delta="redefine">sample-portal-new-theme-purple/css/bootstrap-theme-custom.scss</theme>
+        </themes>
+      </properties>
+    </module_design>
+    <module_design id="itop-portal-business-partner" xsi:type="portal">
+      <properties>
+        <themes>
+          <theme id="bootstrap" _delta="redefine">sample-portal-new-theme-purple/css/bootstrap-theme-custom.scss</theme>
+        </themes>
+      </properties>
+    </module_design>
+  </module_designs>
+</itop_design>

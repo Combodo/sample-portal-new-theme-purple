@@ -15,4 +15,5 @@ The iTop Team
 
 # Sample portal new theme purple
 
-Here are some themes from www.bootswatch.com that you can try. Simply change the css file name in datamodel.sample-portal-new-theme.xml
+Please rename the extension
+To apply your css simply change the css file name in datamodel.sample-portal-new-theme.xml

@@ -8,7 +8,7 @@
         </themes>
       </properties>
     </module_design>
-    <module_design id="itop-portal-business-partner" xsi:type="portal">
+    <module_design id="itop-portal-business-partner" xsi:type="portal" _delta="if_exists">
       <properties>
         <themes>
           <theme id="bootstrap" _delta="redefine">sample-portal-new-theme-purple/css/bootstrap-theme-custom.scss</theme>

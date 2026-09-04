@@ -1,6 +1,6 @@
 @import 'common/main.scss';
-@import '../../../../itop-portal-new-look-for-3.2-lts/public/css/utils/variables/colors/_base-palette';
-@import '../../../../itop-portal-new-look-for-3.2-lts/public/css/utils/variables/colors/_semantic-palette';
+@import '../../../../itop-portal-base/portal/public/css/utils/variables/colors/_base-palette';
+@import '../../../../itop-portal-base/portal/public/css/utils/variables/colors/_semantic-palette';
 
 /* Gestion de la couleur primaire */
 $ipb-color-primary-100: $ipb-color-grey-100;
@@ -309,4 +309,4 @@ $ipb-button-colors: (
         ),
 ) !default;
 
-@import "../../../../itop-portal-new-look-for-3.2-lts/public/css/themes/all"
+@import "../../../../itop-portal-base/portal/public/css/themes/all"

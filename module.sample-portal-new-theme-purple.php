@@ -15,7 +15,7 @@ SetupWebPage::AddModule(
 		// Setup
 		//
 		'dependencies' => array(
-			'itop-portal-base/1.0.0'	
+			'itop-portal-base/3.3.0'	
 		),
 		'mandatory' => false,
 		'visible' => true,
